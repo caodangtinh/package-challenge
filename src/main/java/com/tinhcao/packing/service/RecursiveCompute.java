@@ -13,6 +13,7 @@ import java.util.List;
  * @author tinhcao
  * 1/28/21
  * 12:40 AM
+ * Recursive solution of the 0-1 Knapsack problem, more info <a href="https://www.geeksforgeeks.org/0-1-knapsack-problem-dp-10/">here</a>
  **/
 public class RecursiveCompute implements PackageCompute {
     @Override
